@@ -1,0 +1,25 @@
+{
+
+    "loadingtime" : "3",
+    
+    "activateVideo" : "true",
+    
+    "testmode"           :  "false",
+
+    "checkgip" : "false",
+    
+    "isp" : "",
+
+    "screens"            :  "",
+
+    "ShowAds": "true",
+
+    "interence" : "true",
+    
+    "activeautointer" : "true",
+    
+    "TimeBetweenInters" : "60",
+    
+    "modLink" : ""
+
+}
